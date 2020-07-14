@@ -1,6 +1,6 @@
 # Instant Victory Submod for VCO2
 
-[Steam Workshop Mod Link](#)
+[Steam Workshop Mod Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2165815462)
 
 Victory Conditions Overhaul 2 - Instant Victory Submod mod for Total War: Warhammer 2.
 
