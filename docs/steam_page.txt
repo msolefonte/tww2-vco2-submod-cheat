@@ -1,15 +1,13 @@
 [img]https://i.imgur.com/fVVaDCS.gif[/img]
 
 [h2]Introduction[/h2]
-Some times you are just tired of farming achievements. This mod brings them to you. It is a clear cheat so use it
-knowing what it does. Obviously, it is not compatible with other victory conditions submods or modded faction, as it
-does not make sense at all.
+Some times you are just tired of farming achievements. This mod brings them to you. It is a clear cheat so use it knowing what it does. Obviously, it is not compatible with other victory conditions submods or modded faction, as it does not make sense at all.
 
 [h2]Introduced Changes[/h2]
 You start a campaign. You win. Nice.
 
 [h2]Frequently Asked Questions[/h2]
-A list of frequently asked questions can be found [url=https://www.github.com/msolefonte/tww2-vco2-framework/docs/faq.md]here[/url].
+A list of frequently asked questions can be found [url=https://github.com/msolefonte/tww2-vco2-framework/blob/master/docs/faq.md]here[/url].
 
 [h2]Special Thanks[/h2]
 [list]
