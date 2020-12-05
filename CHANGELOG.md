@@ -11,3 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.1] Minor Fix - 15.07.2020
 
 - Fixed a bug where some victories were not achieved instantly
+    
+## [1.0.2] Patch Update - 5.12.2020
+
+- Add support for The Twisted & The Twilight DLC
